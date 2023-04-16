@@ -3,12 +3,12 @@ Effective engineering leadership requires implementing the right practices, but 
 
 These models are designed for personal use, enabling you to quickly reference practical tips and tools to enhance your leadership skills. With this resource at hand, you'll be well-equipped to make informed decisions, optimize processes, and foster a successful, collaborative team environment.
 
-[Communications](./Communications)  
-[FinOps](./FinOps)  
-[General](./General)  
-[Managing Up](./Managing\ Up)  
-[Platform](./Platform)  
-[Project Delivery](./Project\ Delivery)  
-[Team](./Team)  
+[Communications](./communications)  
+[FinOps](./finops)  
+[General](general.md)  
+[Managing Up](./managing_up)  
+[Platform](./platform)  
+[Project Delivery](./project_delivery)
+[Team](./team)  
 
 
