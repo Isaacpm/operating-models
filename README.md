@@ -1,7 +1,7 @@
 # Engineering Leadership Operational Models
-Effective engineering leadership requires implementing the right practices, but with numerous sources and ideas available, identifying the most valuable ones can be challenging. To address this, I've created a series of operational models that consolidate the best practices from my preferred sources and experiences, offering a concise set of checklists and notes for various tasks in the engineering leadership domain.
+Effective engineering leadership requires implementing the right practices, but with numerous sources and ideas available, identifying the most valuable ones can be challenging. Driven by a personal goal to avoid repeating mistakes and maintain high standards every time I perform a task, I have created a series of operational models that consolidate the best practices from my preferred sources and experiences, offering a concise set of checklists and notes for various tasks in the engineering leadership domain.
 
-These models are designed for personal use, enabling you to quickly reference practical tips and tools to enhance your leadership skills. With this resource at hand, you'll be well-equipped to make informed decisions, optimize processes, and foster a successful, collaborative team environment.
+These models have been developed with a particular focus on platform teams, as this is where my experience lies. However, the principles and guidelines within these operational models can be easily applied to other engineering teams as well. Designed for personal use, this resource enables you to quickly reference practical tips and tools to enhance your leadership skills across diverse team contexts.
 
 [Communications](./communications)  
 [FinOps](./finops)  
