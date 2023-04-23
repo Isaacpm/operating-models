@@ -4,7 +4,7 @@ Effective engineering leadership requires implementing the right practices, but 
 These models have been developed with a particular focus on platform teams, as this is where my experience lies. However, the principles and guidelines within these operational models can be easily applied to other engineering teams as well. Designed for personal use, this resource enables you to quickly reference practical tips and tools to enhance your leadership skills across diverse team contexts.
 
 [Communications](./communications)  
-[FinOps](./finops)  
+[FinOps](./finops/README.md)  
 [General](general.md)  
 [Managing Up](./managing_up)  
 [Platform](./platform)  
